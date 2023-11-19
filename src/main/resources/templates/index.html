@@ -173,6 +173,14 @@
   <script>$(function () {
   $('[data-toggle="tooltip"]').tooltip()
 })</script>
+  <script>
+    $(document).keypress(function(event){
+
+    if(event.keyCode == 13){
+        $("#Enter").click();
+    }
+});
+  </script>
 
   </body>
 </html>
