@@ -193,6 +193,7 @@
     function changePic(){
       document.getElementById('dateiSubmitButton').click();
       document.getElementById('bild').src = document.getElementById('dateiButton').value.split(/(\\|\/)/g).pop();
+      document.getElementById('bildButtonLabel').innerHTML = document.getElementById('dateiButton').value.split(/(\\|\/)/g).pop();
     }
 
     $(document).ready(function() {
