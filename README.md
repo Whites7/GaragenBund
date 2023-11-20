@@ -1,3 +1,6 @@
+Motivation:
+Dieses Projekt dient dem Nachbau einer GUI zur Vorbereitung auf das Abschlussprojekt.
+Die Entwickler sollen lernen wie sie eine Weboberfläche designen und und wie die Kommunikation zwischen Frontend und Backend funktioniert.
 
 Verwendete Technologien:
 
@@ -9,7 +12,7 @@ Verwendete Technologien:
 Anforderungen:
 
 - Java 21 (JAVA_HOME Path gesetzt)
-
+- Maven
 
 Build the Application:
 
