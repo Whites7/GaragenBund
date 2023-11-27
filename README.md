@@ -4,8 +4,9 @@ Die Entwickler sollen lernen wie sie eine Weboberfläche designen und und wie di
 
 Verwendete Technologien:
 
-- Spring Boot als Backend Framework
-- Thymeleaf für das darstellen von HTML/CSS
+- Spring Boot als Backend Framework 
+- TeleportHQ zur Erstellung des Basis HTML Templates
+- Thymeleaf für das darstellen(serverseitige Template Engine) von HTML/CSS
 - BootStrap für CSS
 - Poppers für Tooltips
 
